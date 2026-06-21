@@ -1,0 +1,19 @@
+Data Quality Summary
+
+Datasets Loaded: 6
+
+Files:
+- axis_bluechip.csv
+- hdfc_top_100.csv
+- icici_bluechip.csv
+- kotak_bluechip.csv
+- nippon_large_cap.csv
+- sbi_bluechip.csv
+
+Observations:
+- All datasets loaded successfully.
+- No missing values found.
+- NAV column is float64.
+- Date column is currently stored as string.
+- Data fetched successfully from mfapi.in API.
+- Additional datasets (fund_master, AUM, SIP, holdings, benchmark etc.) are pending availability.
