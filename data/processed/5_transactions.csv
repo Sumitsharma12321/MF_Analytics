@@ -1,0 +1,11 @@
+transaction_id,investor_id,date,amfi_code,state,city,city_tier,age_group,transaction_type,amount
+TX001,INV001,2025-01-03,101001,Maharashtra,Mumbai,Tier-1,26-35,SIP,5000
+TX002,INV002,2025-01-04,101002,Karnataka,Bengaluru,Tier-1,36-45,Lumpsum,100000
+TX003,INV003,2025-01-05,101003,Delhi,New Delhi,Tier-1,26-35,SIP,8000
+TX004,INV004,2025-01-06,101004,Uttar Pradesh,Lucknow,Tier-2,46-60,Redemption,35000
+TX005,INV005,2025-01-07,101005,Gujarat,Ahmedabad,Tier-1,18-25,SIP,6000
+TX006,INV006,2025-01-08,101006,Telangana,Hyderabad,Tier-1,36-45,Lumpsum,50000
+TX007,INV007,2025-01-09,101007,Tamil Nadu,Chennai,Tier-1,26-35,SIP,7000
+TX008,INV008,2025-01-10,101008,Rajasthan,Jaipur,Tier-2,18-25,SIP,4500
+TX009,INV009,2025-01-11,101009,West Bengal,Kolkata,Tier-1,60+,Redemption,25000
+TX010,INV010,2025-01-12,101010,Madhya Pradesh,Indore,Tier-2,26-35,SIP,5500
